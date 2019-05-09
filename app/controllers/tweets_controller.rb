@@ -67,7 +67,6 @@ class TweetsController < ApplicationController
       else
         redirect '/tweets'
       end
-
     end
 
     helpers do
